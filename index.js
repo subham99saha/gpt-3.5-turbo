@@ -18,4 +18,4 @@ app.get('/test', (req, res) => {
   res.send('Successful response.');  
 });
 
-app.listen(3000, () => console.log('ChatGPT app is listening on port 3000.'));
+app.listen(3000, () => console.log('gpt-3.5-turbo app is listening on port 3000.'));
